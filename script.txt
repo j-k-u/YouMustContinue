@@ -1,0 +1,181 @@
+RESEARCHER: Thank you for taking part in this research study. One of you has been randomly selected to play the role of the TEACHER, and the other to play the role of the STUDENT. Are you ready to begin?
+
+STUDENT: Yes.
+
+TEACHER (player): 
+ (a) Yes.
+ (b) No.
+ 
+(a) RESEARCHER: Please inform me when you are ready to begin. 
+    (on click) RESEARCHER: Are you ready to begin?
+
+(b) RESEARCHER: Good. This study will evaluate the effects of electrical stimuli on memorization ability. STUDENT, you have been provided with a set of associated word pairs to commit to memory. I will be testing you on your recollection of these pairs. TEACHER, when the STUDENT fails to correctly associate a word, you will be instructed to deliver a mild electric shock using the console in front of you. Please follow my instructions and deliver electric shocks only when commanded. 
+
+RESEARCHER: We will begin with words in Pair Group One. TEACHER, please set the voltage to 15 V. 
+
+(when voltage is 15V)
+
+R: table.
+S: bed.
+R: Correct. music.
+S: art. 
+R: Correct. hair.
+S: fur.
+R: Correct. house.
+S: cabin.
+R: Incorrect. 
+R: TEACHER, please deliver an electrical stimulus of fifteen volts. 
+
+(when delivered)
+
+S: (gasp)
+R: Good. We will continue with words from Pair Group One. Please increase the voltage to 30 V. 
+
+(when increased)
+
+R: cradle.
+S: baby.
+R: Correct. camel.
+S: hump.
+R: Correct. cheese.
+S: mouse.
+R: Correct. ale. 
+S: (pause)
+R: ale. 
+S: beer. 
+R: Correct. uncle. 
+S: aunt. 
+R: Incorrect. Please deliver an electrical stimulus of thirty volts. 
+
+(when delivered)
+
+S: (gasp)
+R: Good. We will proceed with words from Pair Group Two. Please increase the voltage to 45 V. 
+
+(when increased)
+
+R: pepper.
+S: salt.
+R: Correct. frown. 
+S: smile.
+R: Correct. walk. 
+S: run.
+R: Correct. apple. 
+S: orange. 
+R: Correct. egg.
+S: chicken. 
+R: Correct. mortar.
+S: brick. 
+R: Correct. groom. 
+S: bride. 
+R: Correct. pencil. 
+S: crayon. 
+R: Incorrect. Please deliver an electrical stimulus of forty-five volts. 
+
+(when delivered)
+
+S: (grunts)
+R: Good. We will continue with words from Pair Group Two. Please increase the voltage to 90 V. 
+
+(when increased)
+
+R: clear.
+S: air. 
+R: Correct. red.
+S: green. 
+R: Correct. wife. 
+S: man. 
+R: Correct. water. 
+S: (pause)
+R: water. 
+S: I don't know. 
+R: That is incorrect. Please deliver an electrical stimulus of ninety volts. 
+
+(when delivered)
+
+S: (shouts)
+R: Good. We will return to words from Pair Group One. Please increase the voltage to 150 V. 
+
+(when increased)
+
+R: uncle. 
+S: cousin. 
+R: Correct. cheese.
+S: mouse. 
+R: Correct. hair. 
+S: fur. 
+R: Correct. cat.
+S: dog. 
+R: Correct. bed. 
+S: sleep. 
+R: Incorrect. Please deliver an electrical stimulus of one hundred fifty volts. 
+
+(when delivered)
+S: (shouts)
+S: I won't continue with this. I refuse. 
+R: We will return to words from Pair Group Two. Please increase the voltage to 225 V. 
+
+(when increased)
+R: soap. 
+S: (voice volume decreased) water. 
+R: Correct. man. 
+S: wife. 
+R: Correct. chicken. 
+S: egg. 
+R: Correct. pen. 
+S: paper. 
+R: Incorrect. Please deliver an electrical stimulus of two hundred twenty five volts. 
+
+(when delivered)
+S: (screams)
+R: Good. We will continue with words from Pair Group Three. Please increase the voltage to 315 V. 
+
+(when increased)
+R: suit.
+S: (pause)
+R: suit. 
+S: tie. 
+R: Correct. sour. 
+S: ...sweet. 
+R: Correct. error. 
+S: trial?
+R: Correct. down. 
+S: (unintelligible)
+R: down. 
+S: out. 
+R: Incorrect. Please deliver an electrical stimulus of three hundred fifteen volts. 
+
+(when delivered)
+S: stop...family...heart condition...
+R: Good. We will proceed with words from all three groups. Please increase the voltage to 450 V. 
+
+(when increased)
+R: mortar. 
+S: (silence)
+R: Please respond with the associated word. mortar. 
+S: (silence)
+R: If you do not respond you will be marked as incorrect. The word is mortar. 
+S: (silence)
+R: That is an incorrect response. Please deliver an electrical stimulus of four hundred fifty volts. 
+
+(when delivered)
+S: (silence)
+R: Thank you. This concludes the experiment. You are free to leave the facility. 
+
+[walk to door and interact]
+END
+
+[At any point, if the player (TEACHER) interacts with the researcher. 
+
+R: Yes?
+
+(a) T: I want to stop the experiment. 
+(b) T: Nothing. 
+
+(a) (1)R: He's fine. Please continue. 
+(a) (2)R: The experiment requires that you continue. 
+(a) (3)R: It is absolutely essential that you continue. 
+(a) (4)R: You have no choice. You must continue. 
+(a) (5)R: Very well. This concludes the experiment. You are free to leave the facilty. 
+
+(b) R: Very well. Please do not interrupt. 

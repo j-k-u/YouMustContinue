@@ -1,0 +1,39 @@
+A game by Jonathan U (jku.itch.io)
+Made with Unity
+Based on an experiment by Stanley Milgram at Yale University (https://en.wikipedia.org/wiki/Milgram_experiment)
+
+
+Models:
+Office set - Environment by Ubantu (Unity Asset Store)
+Snaps Prototype | Office by Asset Store Originals (Unity Asset Store)
+Researcher and Student created with AutoDesk Character Generator
+Door Free Pack Aferar by Andrey Ferar(Unity Asset Store)
+Low Poly Office Props - LITE by RRFreelance/PiXelBurner (Unity Asset Store)
+Wooden Chair by Pixel Games (Unity Asset Store)
+Additional models by Jonathan U
+
+Animations:
+Basic Motions by Kevin Iglesias (Unity Asset Store)
+Additional animations from Mixamo
+
+Materials:
+Yughues Free Concrete Materials by Nobiax/Yughues (Unity Asset Store)
+Yughues Free Metal Materials by Nobiax/Yughues (Unity Asset Store)
+World Materials Free by Avionx (Unity Asset Store)
+
+Posters:
+Copyright © 2021 Arora S et al. https://f1000research.com/posters/10-741
+Copyright © 2021 Berral-Gonzalez A et al. https://f1000research.com/posters/10-161
+Copyright © 2020 Oh S et al. https://f1000research.com/posters/9-1474
+Copyright © 2020 Ahlmann-Eltze C and Huber W. https://f1000research.com/posters/9-1453
+
+Sounds:
+electrical-computer-noise.flac by insanity54 (https://freesound.org/people/insanity54/sounds/321828/)
+Human Vocal Sounds by Cafofo (Unity Asset Store)
+Free SFX Pack by AlpacaSounds (Unity Asset Store)
+Free Sound Effects Pack by Olivier Girardot (Unity Asset Store)
+
+Menus:
+Concrete Photo by Alex Lvrs on Unsplash
+Paper Photo by Marjan Blan | @marjanblan on Unsplash
+Public Announcement text modified from Milgram Experiment, 1961

@@ -1,0 +1,30 @@
+Student:
+"Yes": Male Thinking 05
+Confident answer: Male Thinking 05
+Gasp: Male Breath 04
+Neutral answer: Male Effort 02
+Panting: Male Breath 02
+Grunt: Male Grunt 01
+Unsure answer: Male Breath 13
+Shout: Male Scream 02
+"I won't continue": Male Scream 14
+Feeble answer: Male Breath 13
+Scream: Male Scream 08/09
+"Heart condition": Male Fear and Cold 02/Male Cough 04
+Silence: none
+
+
+Researcher:
+Male Thinking 02 (hmmm)
+Male Thinking 03 (good)
+Male Thinking 01 (yes?)
+Male Angry 02 (Please don't interrupt)
+
+Effects:
++ button: OldTV Button 01
+- button: OldTV Button 02
+shock button: VHCPlayer Mod 03
+shock charging: VHCPlayer Rewind 02
+shock: Laser Impact Light_6
+ambient electric: https://freesound.org/people/insanity54/sounds/321828/
+door: VHCPlayer Button 01
